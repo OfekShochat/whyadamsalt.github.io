@@ -38,7 +38,7 @@ and finally, I also manage the Cob:web website along with this blog!
 
 ### GitHub: [github.com/whyadamsalt](https://github.com/whyadamsalt/)
 
-&nbsp
+<br />
 
 ## Credits:
 
