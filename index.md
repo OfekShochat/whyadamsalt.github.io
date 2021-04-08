@@ -44,4 +44,4 @@ and finally, I also manage the Cob:web website along with this blog!
 
 - Profile picture: Billie-Jo Colbeck
 - Site theme: [Jekyll Cayman](https://github.com/pages-themes/cayman)
-- Thank you: TheEvilSkeleton#6043 and Kellegram#2233 for helping me with markdown
+- Thanks to: TheEvilSkeleton#6043 and Kellegram#2233 for aiding me with markdown.
