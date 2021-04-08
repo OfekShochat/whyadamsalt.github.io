@@ -2,7 +2,7 @@
 
 ## [Blogs](blogs.md) | [Discord](https://cob-web.xyz/discord/) | [Cob:web Development](https://cob-web.xyz/)
 
-![Profile Picture](favicon.png)
+<center><img src="/favicon.png"></center>
 
 # Welcome to my personal website!
 
