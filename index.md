@@ -1,7 +1,12 @@
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
-<center><img src="/favicon.png"></center>
 
-## [Blogs](blogs.md) | [Discord](https://cob-web.xyz/discord/) | [Cob:web Development](https://cob-web.xyz/)
+<center>
+<a href="blogs.md">Blogs</a> |
+<a href="https://cob-web.xyz/discord/">Discord</a> |
+<a href="https://cob-web.xyz">Cob:web Development</a>
+</center>
+
+<center><img src="/favicon.png"></center>
 
 # Welcome to my personal website!
 
