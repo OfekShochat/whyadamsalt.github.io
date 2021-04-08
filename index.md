@@ -1,10 +1,8 @@
-<div align="center">
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
 
 ## [Blogs](blogs.md) | [Discord](https://cob-web.xyz/discord/) | [Cob:web Development](https://cob-web.xyz/)
 
 ![Profile Picture](favicon.png)
-
-</div>
 
 # Welcome to my personal website!
 
