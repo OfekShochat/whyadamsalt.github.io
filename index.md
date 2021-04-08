@@ -1,6 +1,10 @@
-#### [Blogs](blogs.md) | [Discord](https://cob-web.xyz/discord/) | [Cob:web Development](https://cob-web.xyz/)
+<div align="center">
+
+## [Blogs](blogs.md) | [Discord](https://cob-web.xyz/discord/) | [Cob:web Development](https://cob-web.xyz/)
 
 ![Profile Picture](favicon.png)
+
+</div>
 
 # Welcome to my personal website!
 
