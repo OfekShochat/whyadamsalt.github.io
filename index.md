@@ -9,11 +9,12 @@ Here I will likely talk about myself, anything relating to Free, Open Source, So
 I am currently the Lead of Cob:web Development. I am currently working on two projects: 
 - CelOS, an Ubuntu-based Linux distribution with Flatpak at its core. 
 - Whittr, a fully encrypted, beautiful chatting application that works in your browser with no sign-up!
+
 I also oversee and manage the rest of the projects in Cob:web Development, such as;
 - CSSheet, a simple, CSS framework which allows anyone to create a beautiful website easily!
 - Minimal, A multi-purpose Discord bot coded in Discord.py
 
-and finally, I manage the Cob:web website!
+and finally, I also manage the Cob:web website along with this blog!
 
 # Contact:
 
