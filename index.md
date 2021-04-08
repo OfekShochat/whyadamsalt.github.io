@@ -4,7 +4,7 @@
 
 <center>
 <h2>
-<a href="blogs.md">Blogs</a> |
+<a href="blogs.html">Blogs</a> |
 <a href="https://cob-web.xyz/discord/">Discord</a> |
 <a href="https://cob-web.xyz">Cob:web Development</a>
 </h2>
