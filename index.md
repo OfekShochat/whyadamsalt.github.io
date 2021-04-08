@@ -1,5 +1,4 @@
 <head>
-    <title>whyAdamSalt#9054</title>
     <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 
@@ -29,12 +28,18 @@ and finally, I also manage the Cob:web website along with this blog!
 
 # Contact:
 
-#### Email: adamjamessalt@icloud.com
+### Email: adamjamessalt@icloud.com
 
-#### Discord tag: whyAdamSalt#9054
+### Discord tag: whyAdamSalt#9054
 
-#### Discord server: [discord.gg/8bxNqn6epv](https://discord.gg/8bxNqn6epv/)
+### Discord server: [discord.gg/8bxNqn6epv](https://discord.gg/8bxNqn6epv/)
 
-#### Twitter: [twitter.com/whyAdamSalt](https://twitter.com/whyadamsalt/)
+### Twitter: [twitter.com/whyAdamSalt](https://twitter.com/whyadamsalt/)
 
-#### GitHub: [github.com/whyadamsalt](https://github.com/whyadamsalt/)
+### GitHub: [github.com/whyadamsalt](https://github.com/whyadamsalt/)
+
+&nbsp
+
+## Credits:
+
+Profile picture: Billie-Jo Colbeck
