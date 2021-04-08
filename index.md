@@ -1,9 +1,14 @@
-<link rel="shortcut icon" type="image/png" href="/favicon.png">
+<head>
+    <title>whyAdamSalt#9054</title>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
+</head>
 
 <center>
+<h2>
 <a href="blogs.md">Blogs</a> |
 <a href="https://cob-web.xyz/discord/">Discord</a> |
 <a href="https://cob-web.xyz">Cob:web Development</a>
+</h2>
 </center>
 
 <center><img src="/favicon.png"></center>
