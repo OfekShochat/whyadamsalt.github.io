@@ -5,8 +5,8 @@
 <center>
 <h2>
 <a href="blogs.html">Blogs</a> |
-<a href="https://cob-web.xyz/discord/">Discord</a> |
-<a href="https://cob-web.xyz">Cob:web Development</a>
+<a href="https://cob-web.xyz/discord/" target="_blank">Discord</a> |
+<a href="https://cob-web.xyz" target="_blank">Cob:web Development</a>
 </h2>
 </center>
 
